@@ -1,0 +1,1091 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Callservitors"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/hos_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical"
+            android:background="#3CB371">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Md. Ariful Islam"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Blood Group: (B+)"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Address: Dhaka"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+            <TextView
+                android:id="@+id/text_1"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="01828986631"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/hos_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical"
+            android:background="#3CB371">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Tanaji Chowdhury"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Blood Group: (AB+)"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Address: Chattagram"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+            <TextView
+                android:id="@+id/text_2"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="01766660711"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/hos_3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical"
+            android:background="#3CB371">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Alamin"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Blood Group: (B+)"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Address: Dhaka"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+
+            <TextView
+                android:id="@+id/text_3"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="01914001234"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/hos_4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical"
+            android:background="#3CB371">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Ahnaf"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Blood Group: (A+)"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Address: Dhaka"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+
+            <TextView
+                android:id="@+id/text_4"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="01854560761"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/hos_5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical"
+            android:background="#3CB371">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Tanjila Jerin"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Blood Group: (B+)"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Address: Dhaka"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+
+            <TextView
+                android:id="@+id/text_5"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="029127306"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/hos_6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical"
+            android:background="#3CB371">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Tanjilur"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Blood Group: (O+)"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Address: Dhaka"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+
+            <TextView
+                android:id="@+id/text_6"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="09666700100"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/hos_7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical"
+            android:background="#3CB371">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Aminur Rahman"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Blood Group: (B+)"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Address: Dhaka"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+
+            <TextView
+                android:id="@+id/text_7"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="01618225566"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/hos_8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical"
+            android:background="#3CB371">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Sakib Al Hasan"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Blood Group: (AB+)"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Address: Dhaka"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+            <TextView
+                android:id="@+id/text_8"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="028143312"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/hos_9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical"
+            android:background="#3CB371">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Akib Uddin"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Blood Group: (B+)"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Address: Dhaka"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+
+            <TextView
+                android:id="@+id/text_9"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="48115405"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/hos_10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical"
+            android:background="#3CB371">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Aishik Gupta"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Blood Group: (B+)"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Address: Dhaka"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+            <TextView
+                android:id="@+id/text_10"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="09666710602"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/hos_11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical"
+            android:background="#3CB371">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Shahabaz Tamjid"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Blood Group: (O-)"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Address: Dhaka"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+
+            <TextView
+                android:id="@+id/text_11"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="10606"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/hos_12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical"
+            android:background="#3CB371">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Parash Ahmed"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Blood Group: (B+)"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Address: Dhaka"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+
+            <TextView
+                android:id="@+id/text_12"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="01715016727"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/hos_13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical"
+            android:background="#3CB371">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Mashraffe Bin Mortuja"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Blood Group: (AB+)"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Address: Dhaka"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/text_13"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="029351190"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/hos_14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical"
+            android:background="#3CB371">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Pretam Bardhan"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Blood Group: (B+)"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Address: Dhaka"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+
+            <TextView
+                android:id="@+id/text_14"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="01926633987"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/hos_15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical"
+            android:background="#3CB371">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Mushfiqur Rahman"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Blood Group: (B+)"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Address: Dhaka"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+
+            <TextView
+                android:id="@+id/text_15"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="01703198859"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/hos_16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical"
+            android:background="#3CB371">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Kanan Das"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Blood Group: (O+)"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Address: Dhaka"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+
+            <TextView
+                android:id="@+id/text_16"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="01703198859"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/hos_17"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical"
+            android:background="#3CB371">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Turjoy Chowdhury"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Blood Group: (B+)"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Address: Dhaka"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+
+            <TextView
+                android:id="@+id/text_17"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="0244891001"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/hos_18"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical"
+            android:background="#3CB371">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Akib Ali Dobash"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Blood Group: (B+)"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Address: Dhaka"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+
+            <TextView
+                android:id="@+id/text_18"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="01914001234"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/hos_19"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical"
+            android:background="#3CB371">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Shojib Uddin"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Blood Group: (AB+)"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Address: Dhaka"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+
+            <TextView
+                android:id="@+id/text_19"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="01914001234"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/hos_20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical"
+            android:background="#3CB371">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Rajib Talukder"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Blood Group: (O-)"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Address: Dhaka"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+
+            <TextView
+                android:id="@+id/text_20"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="01914001234"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/white">
+
+            </TextView>
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</ScrollView>
